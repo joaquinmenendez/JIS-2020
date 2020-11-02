@@ -1,0 +1,361 @@
+﻿"provincia_id","provincia_desc","año","recetas_confeccionadas_cantidad"
+"02","Ciudad Autonoma de Buenos Aires","año_2003",167578
+"06","Buenos Aires","año_2003",3123038
+"10","Catamarca","año_2003",149120
+"14","Cordoba","año_2003",977247
+"18","Corrientes","año_2003",352165
+"22","Chaco","año_2003",551906
+"26","Chubut","año_2003",113193
+"30","Entre Rios","año_2003",477469
+"34","Formosa","año_2003",244323
+"38","Jujuy","año_2003",246180
+"42","La Pampa","año_2003",89580
+"46","La Rioja","año_2003",179178
+"50","Mendoza","año_2003",581158
+"54","Misiones","año_2003",315086
+"58","Neuquen","año_2003",120168
+"62","Rio Negro","año_2003",136924
+"66","Salta","año_2003",339249
+"70","San Juan","año_2003",222140
+"74","San Luis","año_2003",179084
+"78","Santa Cruz","año_2003",8099
+"82","Santa Fe","año_2003",863259
+"86","Santiago del Estero","año_2003",361786
+"90","Tucuman","año_2003",677249
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2003",26346
+"02","Ciudad Autonoma de Buenos Aires","año_2004",214006
+"06","Buenos Aires","año_2004",3916997
+"10","Catamarca","año_2004",268093
+"14","Cordoba","año_2004",1470119
+"18","Corrientes","año_2004",534945
+"22","Chaco","año_2004",842489
+"26","Chubut","año_2004",153779
+"30","Entre Rios","año_2004",735472
+"34","Formosa","año_2004",350553
+"38","Jujuy","año_2004",350004
+"42","La Pampa","año_2004",120775
+"46","La Rioja","año_2004",275113
+"50","Mendoza","año_2004",749959
+"54","Misiones","año_2004",572572
+"58","Neuquen","año_2004",150704
+"62","Rio Negro","año_2004",179606
+"66","Salta","año_2004",604382
+"70","San Juan","año_2004",320252
+"74","San Luis","año_2004",242569
+"78","Santa Cruz","año_2004",36306
+"82","Santa Fe","año_2004",1103931
+"86","Santiago del Estero","año_2004",613726
+"90","Tucuman","año_2004",1073573
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2004",30295
+"02","Ciudad Autonoma de Buenos Aires","año_2005",218813
+"06","Buenos Aires","año_2005",3899943
+"10","Catamarca","año_2005",278804
+"14","Cordoba","año_2005",1441383
+"18","Corrientes","año_2005",619386
+"22","Chaco","año_2005",832674
+"26","Chubut","año_2005",157571
+"30","Entre Rios","año_2005",682877
+"34","Formosa","año_2005",431918
+"38","Jujuy","año_2005",377868
+"42","La Pampa","año_2005",130313
+"46","La Rioja","año_2005",274722
+"50","Mendoza","año_2005",758531
+"54","Misiones","año_2005",634515
+"58","Neuquen","año_2005",100612
+"62","Rio Negro","año_2005",180655
+"66","Salta","año_2005",644217
+"70","San Juan","año_2005",340088
+"74","San Luis","año_2005",231063
+"78","Santa Cruz","año_2005",35998
+"82","Santa Fe","año_2005",1187775
+"86","Santiago del Estero","año_2005",641803
+"90","Tucuman","año_2005",1077449
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2005",31392
+"02","Ciudad Autonoma de Buenos Aires","año_2006",226738
+"06","Buenos Aires","año_2006",4139859
+"10","Catamarca","año_2006",304047
+"14","Cordoba","año_2006",1534470
+"18","Corrientes","año_2006",660748
+"22","Chaco","año_2006",913629
+"26","Chubut","año_2006",189124
+"30","Entre Rios","año_2006",743906
+"34","Formosa","año_2006",487998
+"38","Jujuy","año_2006",413994
+"42","La Pampa","año_2006",140026
+"46","La Rioja","año_2006",276525
+"50","Mendoza","año_2006",758331
+"54","Misiones","año_2006",706362
+"58","Neuquen","año_2006",112807
+"62","Rio Negro","año_2006",214944
+"66","Salta","año_2006",710418
+"70","San Juan","año_2006",387074
+"74","San Luis","año_2006",258240
+"78","Santa Cruz","año_2006",39478
+"82","Santa Fe","año_2006",1226772
+"86","Santiago del Estero","año_2006",739376
+"90","Tucuman","año_2006",1159370
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2006",34135
+"02","Ciudad Autonoma de Buenos Aires","año_2007",210232
+"06","Buenos Aires","año_2007",3779001
+"10","Catamarca","año_2007",321621
+"14","Cordoba","año_2007",1461669
+"18","Corrientes","año_2007",680236
+"22","Chaco","año_2007",861813
+"26","Chubut","año_2007",188409
+"30","Entre Rios","año_2007",699162
+"34","Formosa","año_2007",473970
+"38","Jujuy","año_2007",407926
+"42","La Pampa","año_2007",122983
+"46","La Rioja","año_2007",250041
+"50","Mendoza","año_2007",713021
+"54","Misiones","año_2007",733164
+"58","Neuquen","año_2007",90463
+"62","Rio Negro","año_2007",190409
+"66","Salta","año_2007",760362
+"70","San Juan","año_2007",388433
+"74","San Luis","año_2007",270744
+"78","Santa Cruz","año_2007",34130
+"82","Santa Fe","año_2007",1093073
+"86","Santiago del Estero","año_2007",788072
+"90","Tucuman","año_2007",1253792
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2007",25992
+"02","Ciudad Autonoma de Buenos Aires","año_2008",206121
+"06","Buenos Aires","año_2008",2932939
+"10","Catamarca","año_2008",251638
+"14","Cordoba","año_2008",1197232
+"18","Corrientes","año_2008",571090
+"22","Chaco","año_2008",776369
+"26","Chubut","año_2008",173643
+"30","Entre Rios","año_2008",571394
+"34","Formosa","año_2008",383650
+"38","Jujuy","año_2008",351648
+"42","La Pampa","año_2008",88443
+"46","La Rioja","año_2008",197076
+"50","Mendoza","año_2008",581628
+"54","Misiones","año_2008",603281
+"58","Neuquen","año_2008",75027
+"62","Rio Negro","año_2008",146137
+"66","Salta","año_2008",627277
+"70","San Juan","año_2008",325490
+"74","San Luis","año_2008",233134
+"78","Santa Cruz","año_2008",34129
+"82","Santa Fe","año_2008",874683
+"86","Santiago del Estero","año_2008",629540
+"90","Tucuman","año_2008",1023809
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2008",27144
+"02","Ciudad Autonoma de Buenos Aires","año_2009",196429
+"06","Buenos Aires","año_2009",3300817
+"10","Catamarca","año_2009",291937
+"14","Cordoba","año_2009",1334520
+"18","Corrientes","año_2009",649784
+"22","Chaco","año_2009",932141
+"26","Chubut","año_2009",210812
+"30","Entre Rios","año_2009",630037
+"34","Formosa","año_2009",444023
+"38","Jujuy","año_2009",369814
+"42","La Pampa","año_2009",89395
+"46","La Rioja","año_2009",212614
+"50","Mendoza","año_2009",639841
+"54","Misiones","año_2009",765336
+"58","Neuquen","año_2009",90663
+"62","Rio Negro","año_2009",149059
+"66","Salta","año_2009",680980
+"70","San Juan","año_2009",408932
+"74","San Luis","año_2009",267765
+"78","Santa Cruz","año_2009",37525
+"82","Santa Fe","año_2009",985606
+"86","Santiago del Estero","año_2009",828425
+"90","Tucuman","año_2009",1150297
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2009",36999
+"02","Ciudad Autonoma de Buenos Aires","año_2010",198120
+"06","Buenos Aires","año_2010",3717661
+"10","Catamarca","año_2010",339405
+"14","Cordoba","año_2010",1534511
+"18","Corrientes","año_2010",784755
+"22","Chaco","año_2010",1075859
+"26","Chubut","año_2010",252109
+"30","Entre Rios","año_2010",775335
+"34","Formosa","año_2010",520811
+"38","Jujuy","año_2010",439731
+"42","La Pampa","año_2010",109770
+"46","La Rioja","año_2010",248025
+"50","Mendoza","año_2010",666727
+"54","Misiones","año_2010",804002
+"58","Neuquen","año_2010",137824
+"62","Rio Negro","año_2010",178220
+"66","Salta","año_2010",763647
+"70","San Juan","año_2010",387965
+"74","San Luis","año_2010",236281
+"78","Santa Cruz","año_2010",47519
+"82","Santa Fe","año_2010",1101349
+"86","Santiago del Estero","año_2010",1016053
+"90","Tucuman","año_2010",1430247
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2010",43133
+"02","Ciudad Autonoma de Buenos Aires","año_2011",193631
+"06","Buenos Aires","año_2011",3784732
+"10","Catamarca","año_2011",347491
+"14","Cordoba","año_2011",1537610
+"18","Corrientes","año_2011",779029
+"22","Chaco","año_2011",1048549
+"26","Chubut","año_2011",241036
+"30","Entre Rios","año_2011",795493
+"34","Formosa","año_2011",503810
+"38","Jujuy","año_2011",473069
+"42","La Pampa","año_2011",140656
+"46","La Rioja","año_2011",221858
+"50","Mendoza","año_2011",708735
+"54","Misiones","año_2011",760353
+"58","Neuquen","año_2011",138340
+"62","Rio Negro","año_2011",161012
+"66","Salta","año_2011",714824
+"70","San Juan","año_2011",377703
+"74","San Luis","año_2011",225549
+"78","Santa Cruz","año_2011",56846
+"82","Santa Fe","año_2011",1229739
+"86","Santiago del Estero","año_2011",937358
+"90","Tucuman","año_2011",1442128
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2011",42020
+"02","Ciudad Autonoma de Buenos Aires","año_2012",205732
+"06","Buenos Aires","año_2012",4217160
+"10","Catamarca","año_2012",398695
+"14","Cordoba","año_2012",1626284
+"18","Corrientes","año_2012",828853
+"22","Chaco","año_2012",1036246
+"26","Chubut","año_2012",249670
+"30","Entre Rios","año_2012",814292
+"34","Formosa","año_2012",536349
+"38","Jujuy","año_2012",507353
+"42","La Pampa","año_2012",131178
+"46","La Rioja","año_2012",282247
+"50","Mendoza","año_2012",745837
+"54","Misiones","año_2012",780589
+"58","Neuquen","año_2012",183981
+"62","Rio Negro","año_2012",183905
+"66","Salta","año_2012",786142
+"70","San Juan","año_2012",434191
+"74","San Luis","año_2012",249614
+"78","Santa Cruz","año_2012",60134
+"82","Santa Fe","año_2012",1237316
+"86","Santiago del Estero","año_2012",1000002
+"90","Tucuman","año_2012",1955475
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2012",41199
+"02","Ciudad Autonoma de Buenos Aires","año_2013",192521
+"06","Buenos Aires","año_2013",4061801
+"10","Catamarca","año_2013",425996
+"14","Cordoba","año_2013",1688409
+"18","Corrientes","año_2013",816393
+"22","Chaco","año_2013",1041089
+"26","Chubut","año_2013",260098
+"30","Entre Rios","año_2013",829542
+"34","Formosa","año_2013",514674
+"38","Jujuy","año_2013",497031
+"42","La Pampa","año_2013",136041
+"46","La Rioja","año_2013",285079
+"50","Mendoza","año_2013",742326
+"54","Misiones","año_2013",783468
+"58","Neuquen","año_2013",181165
+"62","Rio Negro","año_2013",196830
+"66","Salta","año_2013",792792
+"70","San Juan","año_2013",432358
+"74","San Luis","año_2013",275454
+"78","Santa Cruz","año_2013",59924
+"82","Santa Fe","año_2013",1242513
+"86","Santiago del Estero","año_2013",1040185
+"90","Tucuman","año_2013",1626164
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2013",32963
+"02","Ciudad Autonoma de Buenos Aires","año_2014",180806
+"06","Buenos Aires","año_2014",4082578
+"10","Catamarca","año_2014",488126
+"14","Cordoba","año_2014",1713857
+"18","Corrientes","año_2014",849594
+"22","Chaco","año_2014",1055850
+"26","Chubut","año_2014",243841
+"30","Entre Rios","año_2014",818288
+"34","Formosa","año_2014",565384
+"38","Jujuy","año_2014",498859
+"42","La Pampa","año_2014",154861
+"46","La Rioja","año_2014",314045
+"50","Mendoza","año_2014",805371
+"54","Misiones","año_2014",756128
+"58","Neuquen","año_2014",175936
+"62","Rio Negro","año_2014",206468
+"66","Salta","año_2014",813873
+"70","San Juan","año_2014",443592
+"74","San Luis","año_2014",306713
+"78","Santa Cruz","año_2014",65607
+"82","Santa Fe","año_2014",1290821
+"86","Santiago del Estero","año_2014",1072222
+"90","Tucuman","año_2014",1525842
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2014",34869
+"02","Ciudad Autonoma de Buenos Aires","año_2015",168615
+"06","Buenos Aires","año_2015",4090324
+"10","Catamarca","año_2015",478093
+"14","Cordoba","año_2015",1760988
+"18","Corrientes","año_2015",874604
+"22","Chaco","año_2015",1129330
+"26","Chubut","año_2015",235316
+"30","Entre Rios","año_2015",838640
+"34","Formosa","año_2015",550101
+"38","Jujuy","año_2015",568219
+"42","La Pampa","año_2015",192051
+"46","La Rioja","año_2015",300870
+"50","Mendoza","año_2015",879381
+"54","Misiones","año_2015",766928
+"58","Neuquen","año_2015",189762
+"62","Rio Negro","año_2015",211824
+"66","Salta","año_2015",856862
+"70","San Juan","año_2015",480221
+"74","San Luis","año_2015",326806
+"78","Santa Cruz","año_2015",64888
+"82","Santa Fe","año_2015",1379683
+"86","Santiago del Estero","año_2015",1079910
+"90","Tucuman","año_2015",1411688
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2015",40810
+"02","Ciudad Autonoma de Buenos Aires","año_2016",164264
+"06","Buenos Aires","año_2016",3761718
+"10","Catamarca","año_2016",408245
+"14","Cordoba","año_2016",1506135
+"18","Corrientes","año_2016",821064
+"22","Chaco","año_2016",1046066
+"26","Chubut","año_2016",230398
+"30","Entre Rios","año_2016",755752
+"34","Formosa","año_2016",473064
+"38","Jujuy","año_2016",530089
+"42","La Pampa","año_2016",168741
+"46","La Rioja","año_2016",270757
+"50","Mendoza","año_2016",752409
+"54","Misiones","año_2016",702026
+"58","Neuquen","año_2016",175493
+"62","Rio Negro","año_2016",181898
+"66","Salta","año_2016",787999
+"70","San Juan","año_2016",554349
+"74","San Luis","año_2016",285132
+"78","Santa Cruz","año_2016",43234
+"82","Santa Fe","año_2016",1214518
+"86","Santiago del Estero","año_2016",915134
+"90","Tucuman","año_2016",1192842
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2016",39831
+"02","Ciudad Autonoma de Buenos Aires","año_2017",172628
+"06","Buenos Aires","año_2017",3730091
+"10","Catamarca","año_2017",430448
+"14","Cordoba","año_2017",1576309
+"18","Corrientes","año_2017",827584
+"22","Chaco","año_2017",1043477
+"26","Chubut","año_2017",227164
+"30","Entre Rios","año_2017",775809
+"34","Formosa","año_2017",491679
+"38","Jujuy","año_2017",517998
+"42","La Pampa","año_2017",203271
+"46","La Rioja","año_2017",274590
+"50","Mendoza","año_2017",765458
+"54","Misiones","año_2017",691266
+"58","Neuquen","año_2017",174227
+"62","Rio Negro","año_2017",173891
+"66","Salta","año_2017",763591
+"70","San Juan","año_2017",583754
+"74","San Luis","año_2017",307816
+"78","Santa Cruz","año_2017",49205
+"82","Santa Fe","año_2017",1249618
+"86","Santiago del Estero","año_2017",950687
+"90","Tucuman","año_2017",1225501
+"94","Tierra del Fuego, Antártida e Islas del Atlantico Sur","año_2017",41757
